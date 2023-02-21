@@ -1,4 +1,5 @@
 # ArrayCustomSequencingAngular
+Move an array element from one array position to another
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
